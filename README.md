@@ -1,2 +1,2 @@
 # Drag-Drop_Image
-How to drag and drop image on java.
+How to drag and drop image in java.
